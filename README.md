@@ -4,5 +4,4 @@ This project uses the trip data of uber and yellow taxi in New York and local we
 
 # Group Name
 Project Group 14
-
-#UNIs: [yc4153, yd2669]
+UNIs: [yc4153, yd2669]
